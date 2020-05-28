@@ -1,3 +1,5 @@
 ohai
 
 second account changes some lines
+any account makes conflicting change on protected branch
+second account resolves merge conflict. Dismiss stale pull request approvals when new commits are pushed is checked. Require branches to be up to date before merging is checked.
